@@ -13,15 +13,12 @@ Here are some of my contributions:
 - [📚 Cloud Fundamentals : Dynamo DB Global Tables]([https://medium.com/your-third-articl](https://medium.com/@vikas.taank_40391/cloud-fundamentals-dynamo-db-global-tables-66651c4acc51)
 
 
-
----
-
 ## 🚀 About Me
 
-- 🌱 Currently learning: **Java Streams, Comparator, and functional programming**
+- 🌱 Currently learning: **Java Streams, Comparator, and functional programming, Micro Services, AWS, Cloud Native Tehnology Stack**
 - 💻 I love writing clean, efficient code
-- 🧠 I enjoy solving algorithmic problems and participating in coding challenges
-- 🔭 I’m working on mastering **Java** and exploring more backend development
+- 🧠 I enjoy providing solutions for complex business problems.
+- 🔭 I’m working on mastering **Java, Pyhton, Rust ** and exploring more backend development
 
 ---
 
@@ -32,21 +29,13 @@ Here are some of my contributions:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Portfolio](https://yourwebsite.com)
+- 📧 Email: vikas.taank@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/vikas-taank-02746940/)  
+- 🌐 [Medium](https://medium.com/@vikas.taank_40391)
 
 ---
 
