@@ -1,7 +1,8 @@
 
-<img width="820" alt="Screenshot 2025-01-23 at 10 15 55 AM" src="https://github.com/user-attachments/assets/04d7e9a8-5b31-4e65-b16d-c50ebbcbf149" />
+<img width="220" alt="Screenshot 2025-01-23 at 10 15 55 AM" src=https://github.com/user-attachments/assets/526b7b2b-bb83-4cfa-a9b2-5667c6c9abd9 />
 
 # Hello , I'm Vikas Taank!
+
 
 
 Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies, solving real-world problems, and building cool projects.
