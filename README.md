@@ -1,11 +1,13 @@
 
-<img width="220" alt="Screenshot 2025-01-23 at 10 15 55 AM" src=https://github.com/user-attachments/assets/526b7b2b-bb83-4cfa-a9b2-5667c6c9abd9 />
-
 # Hello , I'm Vikas Taank!
+![IMG_2029](https://github.com/user-attachments/assets/fd1c33ee-d5f4-4d36-9b0b-f07bca8d187a)
 
 
 
 Welcome to my GitHub profile! I'm a passionate developer who loves learning new technologies, solving real-world problems, and building cool projects.
+
+My Work on Concurrency:
+https://github.com/youtalkingtome/concurrency
 
 I am an active contributor on Medium and I love illustrations and Enterprise Architecture.
 Here are some of my contributions:
